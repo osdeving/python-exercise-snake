@@ -1,3 +1,12 @@
+#
+# Exercício de faculdade, primeiro semenstre curso de Análise e Desenvolvimento de Sistemas, Disciplina Linguagem de Programação
+# O exercício pede um programa abordando um problema qualquer que use laços de iteração for e listas.
+#
+# Para solução do exercício decidi implementar o jogo Snake com pygame em uma versão simplificada
+#
+# O jogo não trata colisões e a cobrinha cresce premindo espaço (as teclas de direção estão funcionando)
+#
+
 import pygame
 import time
 
